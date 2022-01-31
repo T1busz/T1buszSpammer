@@ -1,0 +1,9 @@
+{
+  "offset": 300,
+  "skip_completed": true,
+  "proxy": "",
+  "remove_dead_tokens": true,
+  "remove_completed_members": true,
+  "stop_dead_tokens": true
+
+}
